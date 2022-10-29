@@ -3,4 +3,4 @@ My name is Coding, I like watching Anime and reading mangas. But I prefer to rea
 Usa el comando code nombre.txt para editar el archivo.
 Para solo visualizar el texto plano usar el comando cat nombre.txt
 
-Hablemos de mi vida
+Hablemos de mi vida y mi animes favoritos
