@@ -1,0 +1,6 @@
+Hola mundo
+My name is Coding, I like watching Anime and reading mangas. But I prefer to read a manga, because It's more interesting and funny.
+Usa el comando code nombre.txt para editar el archivo.
+Para solo visualizar el texto plano usar el comando cat nombre.txt
+
+Hablemos de mi vida y mi animes favoritos
