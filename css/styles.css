@@ -7,7 +7,7 @@ section{
     margin: 0 80px;
 }
 .cabecera{
-    background-color: rgb(30, 92, 237);
+    background-color: rgb(241, 202, 6);
     padding: 3px;
     box-shadow: 0px 2px 10px 5px rgba(0, 0, 0, 0.5);
     margin-bottom: 40px;
@@ -20,6 +20,6 @@ h1{
 
 .container-menssages{
     font-size: 25px;
-    border: 1px solid black;
+    border: 1px solid rgb(222, 11, 11);
     /* background-color: black; */
 }
